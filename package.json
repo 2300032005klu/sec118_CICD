@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"https://github.com/2300032005klu/sec118_CICD.git",
+ "homepage": "https://2300032005klu.github.io/sec118_CICD"
+,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
