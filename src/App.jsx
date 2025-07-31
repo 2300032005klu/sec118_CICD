@@ -22,7 +22,7 @@ function App() {
   
   return (
     <>
-    <Router basename="/S118_CICD">
+    <Router basename="/sec118_CICD">
       <Routes>
         <Route path="/" element={<HomePage />}>
           <Route index element={<AboutUs />} />
